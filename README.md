@@ -1,3 +1,3 @@
 # Quake 4: Tower Defense Mod
-*Defend the towers at all costs!!* In this mod, you, along 5 cpu allies are given the task to defend the base towers from an upcoming strogg attack. 
-Every kill you get will allow you to obtain points which will allow you to bay guns, health and armor and upgrades to the player and tower.
+
+_Defend the towers at all costs!!_ In this mod, you, along 5 NPC allies are given the task to defend the base towers from an upcoming strogg attack. Protect the 5 towers and don't let the enemies reach their cores. Every kill you get will allow you to obtain points which will allow you to buy guns, health and armor. The towers can be upgraded to help you with the fight, they have up to 5 levels each providing a different ability like health regen, poison to attacker, and more. The player also can be upgraded to increase health, armor and damage. A shop system is provided on the side of the map so the player can buy what he desires by shooting at the screen.
